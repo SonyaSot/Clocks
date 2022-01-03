@@ -1,0 +1,51 @@
+body{
+  background-color: #FA8072;
+  margin:400px 200px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.hour_marker{
+  fill: transparent;
+  stroke: #00FF7F;
+  stroke-width: 7;
+  stroke-dasharray: 0.2, 4.8;
+  stroke-dashoffset: 0.1;
+}
+.minute_marker {
+  fill: transparent;
+  stroke: #0f0e0e;
+  stroke-width: 7;
+  stroke-dasharray: 0.2, 0.8;
+  stroke-dashoffset: 0.1;
+}
+.hand {
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-linecap: round;
+}
+
+.hand--thick {
+  stroke-width: 7;
+}
+
+.hand--second {
+  stroke: #00FF7F;
+}
+
+.centre{
+  fill: #00FF7F;
+  stroke-width: 2;
+  stroke: white;
+}
+.text{
+  fill: #f0f0c9;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2.8px;
+  text-anchor: middle;
+  cursor:pointer;''
+  user-select: none;
+  
+}
