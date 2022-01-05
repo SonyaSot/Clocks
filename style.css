@@ -1,51 +1,169 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+
+nav,footer,header,aside{display: block;}
+
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+input,button,textarea{font-family:inherit;}
+
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
+ 
 body{
-  background-color: #FA8072;
-  margin:400px 200px;
-   display: flex;
-   align-items: center;
-   justify-content: center;
-}
-.hour_marker{
-  fill: transparent;
-  stroke: #00FF7F;
-  stroke-width: 7;
-  stroke-dasharray: 0.2, 4.8;
-  stroke-dashoffset: 0.1;
-}
-.minute_marker {
-  fill: transparent;
-  stroke: #0f0e0e;
-  stroke-width: 7;
-  stroke-dasharray: 0.2, 0.8;
-  stroke-dashoffset: 0.1;
-}
-.hand {
-  stroke: #ffffff;
-  stroke-width: 2;
-  stroke-linecap: round;
+
+background-color: #F8F8FF;
+
 }
 
-.hand--thick {
-  stroke-width: 7;
+input{
+	opacity: 0;
+	position: absolute;
+   margin: 40px 5px 0px 50px;
+}
+p{
+	margin: 20px 0 0 20px;
+}
+svg{
+	margin: 5px 10px 0 40px;
 }
 
-.hand--second {
-  stroke: #00FF7F;
+
+.content{
+  max-width: 750px;
+  padding: 168px 0 137px 0;
+	
+	margin: 0px auto;
+}
+.content-top-category{
+	color: #333333;
+   font-weight: 700;
+   font-size: 40px;
+	max-width: 725px;
+	margin: 10px;
 }
 
-.centre{
-  fill: #00FF7F;
-  stroke-width: 2;
-  stroke: white;
+.content-top-text{
+color: #273d46;
+	font-size: 34px;
+	line-height: 40px;
+	max-width: 725px;
+	margin: 10px;
+   font-family: Micra, Helvetica, Arial, sans-serif;
 }
-.text{
-  fill: #f0f0c9;
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  font-size: 14px;
-  text-transform: uppercase;
-  letter-spacing: 2.8px;
-  text-anchor: middle;
-  cursor:pointer;''
-  user-select: none;
-  
+.test__title{
+  font-size: 40px;
+line-height: 40px;
+color: #4f5e6a;
+text-align: center;
+margin: 70px 0 0 0;
+}
+
+ .quiz-body {
+	color: #333333;
+   font-weight: 700;
+   font-size: 27px;
+	max-width: 700px;
+	margin: 10px;
+	font-family: 'Roboto', sans-serif;
+	border: 1px solid #FFF0F5;
+	background-color: #FFF0F5;
+	border-radius: 30px;
+	box-shadow: 3px 2px 1px rgba(0, 0, 0,0.5);
+
+}
+.answers-wrapper{
+	color: #333333;
+   font-weight: 700;
+   font-size: 20px;
+	max-width: 725px;
+	margin: 10px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.gingerbread .body1 {
+  fill: #fff; 
+
+}
+.gingerbread .body2 {
+  fill: #fff; 
+
+}
+.gingerbread .body3 {
+  fill: #fff; 
+
+}
+.gingerbread .body4 {
+  fill: #fff; 
+
+}
+
+.gingerbread .eye {
+  fill: black;
+}
+
+.gingerbread .mouth {
+  fill: none;
+  stroke: black;
+  stroke-width: 2px;
+
+}
+
+.gingerbread .body1:active {
+  fill:#B22222; 
+
+}
+.gingerbread .body2:hover {
+  fill: #FF6347; 
+
+}
+.gingerbread .body3:hover {
+  fill: #FF8C00; 
+
+}
+.gingerbread .body4:hover {
+  fill: #3CB371;
+}
+
+ul{
+	color: #333333;
+   max-width: 700px;
+	background-color: #FFF0F5;
+	border-radius: 30px;
+	box-shadow: 3px 2px 1px rgba(0, 0, 0,0.5);
+
+}
+span{
+display: block;
+font-size: 23px;	
+font-weight: 700;
+font-family: 'Roboto', sans-serif;
+text-align: left;
+border: 1px solid #000;
+
 }
