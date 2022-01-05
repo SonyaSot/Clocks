@@ -2,191 +2,234 @@
 <html lang="ru">
  <head> 
 
-<title>Тест на жизнестойкость Мадди</title>
- <body>
- 	<!--ВЕРХНИЙ БЛОК--></div><!--/noindex--> 
-						<section itemprop="articleBody">
-							<p>Этот опросник — переработка теста, который был придуман американским психологом Сальватором Мадди. Тема этого материала &#8212; онлайн-тест жизнестойкости Мадди в адаптации Леонтьева. Для начала нам следует разобраться, что такое жизнестойкость и что она, собственно, из себя представляет. Мы можем представить жизнестойкость как особую концепцию, в виде собрания понятий о мире, себе, отношениях с окружающей действительностью и всем остальным, что помогает человеку пережить негативные ситуации.</p>
-<h2>Онлайн-тест</h2>
-<p>Каждый вопрос онлайн-теста Мадди представляет собой отдельное изречение. После него вы увидите несколько вариантов, в которых указаны несколько вариантов ответов. Вам нужно отметить только тот, который отвечает вашим убеждениям. Важно правильно прочитать вопрос-утверждение: читайте внимательно, понимая смысл высказывания.</p>
-<p><div id="test-wrapper-1">
-    <div class="col-sm-6 col-xs-12 col-md-push-6 kkarrt" itemscope itemtype="http://schema.org/ImageObject">
-        <img loading="lazy" itemprop="image" src="https://gadalkindom.ru/wp-content/uploads/2018/10/maddi.png" alt="онлайн тест">
-        <meta itemprop="name" content='Онлайн тест Мадди (45 вопросов)'>
-        <meta itemprop='Иллюстрация Онлайн тест Мадди (45 вопросов)'>
-    </div>
-    <div class="col-sm-6 col-xs-12 col-md-pull-6 ">        
-    <form id="invait" target="_blank" action="https://gadalkindom.ru/test-quiz/onlain-test-maddi" method="POST">
-        <input type="hidden" name="location" value="https://gadalkindom.ru/test/giznestojkosti-maddi.html">
-        <input type="hidden" name="to" value="start">
-        <br>
-        <!--noindex--><div class="test__title">Онлайн тест Мадди (45 вопросов)</div><!--noindex-->
-        <br>
-        <input type="text" name="user_name" placeholder="Введите своё Имя" required>
-        <br>
-        <input type="text" name="user_vozrast" placeholder="Введите свой Возраст" required>
-        <br>
-        <button type="submit" class="start-button">НАЧАТЬ ТЕСТИРОВАНИЕ</button>
-        <div class="info_html">
-        
-        <!--noindex--><p><em>*Важно: личные данные и результаты теста не сохраняются!</em></p><!--/noindex-->
-        </div>
-        </form>
-    </div>
+<title>Тест</title>
 
-</div></p>
-<p>Правила прохождения теста Мадди:</p>
-<ul>
-<li>Вы не можете дать неправильный ответ, так как ваши ответы отражают ваше мнение, которое не может быть неправильным.</li>
-<li>Вам лучше всего торопиться с ответами, не думайте над ответами слишком долго.</li>
-<li>Ответы, которые вы даёте быстро, являются более правдивыми.</li>
-<li>Отвечайте на вопросы именно в той последовательности, в которой они идут.</li>
-<li>Не пропускайте вопросы, потом вы не сможете к ним вернуться.</li>
-</ul>
-<h2>Жизнестойкость и её роль в жизни</h2>
-<p>Если представить любую стрессовую ситуацию и двух людей, у одного из них высокая жизнестойкость, у другого низкая. Человек с высокой жизнестойкостью в стрессе намного быстрее справится со своим беспокойством и страхом. Он готов к этому, он ощущает стресс, его чувства никуда не делись, но он может взять их под контроль и обуздать свои отрицательные эмоции. В той же ситуации у человека с низкой жизнестойкостью могут возникнуть большие проблемы. Большой и продолжительный стресс может оказать сильное влияние на человеческую психику, а это вызовет ряд проблем.</p>
-<p>Жизнестойкость можно разложить на три главных компонента: <strong>контроль, вовлечённость и принятие риска.</strong></p>
-<p>В экзистенциализме – философском направлении, представители которого мыслят жизнь этого конкретного человека совершенно уникальной, не подлежащей никаким общим описаниям – жизнестойкость понимается синонимом «отвага жизни».</p>
-<p>Экзистенциализм, вообще, довольно близок к теме жизнестойкости, так как он базируется на идее преодоления самой сущности человека, как и жизнестойкость на преодолении трудностей. Это понятие ввёл П. Тиллихом, он подразумевал, готовность человека преодолевать жизнь, все её препятствия и невзгоды, от душевных переживаний до физической боли.</p>
-<p>Отличие жизнестойкости от экзистенциализма в том, что жизнестойкость есть средство экзистенциализма. Именно она помогает человеку избавиться от жизненного стресса, вызванного неизвестностью будущего и неизменностью прошлого и, в общем-то, любой, экзистенциальной дилеммой.</p>
-<p>Ведь особенностью всех экзистенциальных проблем является то, что их не нужно избегать. Наоборот, их нужно пережить и прочувствовать, только так можно получить настоящую экзистенциальную истину. Она передаётся от чувств и опыта, это её отличие от объективной истины, которая познаются с помощью разума. Поэтому для познания экзистенциальной истины необходимо существовать как личность, иметь глубокие эмоциональные и психологические размышления, которые наполняют вашу жизнь. Все ваши психологические проблемы и пережитые трудности отражают вас как личность, составляют ваш психологический портрет.</p>
-<hr />
-<p style="text-align: center;"><strong>Удачного вам тестирования!</strong></p>
-						</section>	
-										<!--noindex-->
-	<div class="container vopros">
-        <div class="content">
-            <div >
-<form id="quiz" data-test-id="62169" data-question="0" method="POST">
-    <input type="hidden" name="state" value="eyJpbnZhaXRQYWdlIjoiaHR0cHM6XC9cL2dhZGFsa2luZG9tLnJ1XC90ZXN0XC9naXpuZXN0b2prb3N0aS1tYWRkaS5odG1sIiwicXVldWUiOlswLDEsMiwzLDQsNSw2LDcsOCw5LDEwLDExLDEyLDEzLDE0LDE1LDE2LDE3LDE4LDE5LDIwLDIxLDIyLDIzLDI0LDI1LDI2LDI3LDI4LDI5LDMwLDMxLDMyLDMzLDM0LDM1LDM2LDM3LDM4LDM5LDQwLDQxLDQyLDQzLDQ0XSwidXNlciI6Ilx1MDQ0MVx1MDQzZVx1MDQzZFx1MDQ0ZiIsInN0YXJ0VGltZSI6MTY0MDg4MjA0MDAwMCwidGltZUxpbWl0IjpudWxsLCJjbG9zZU9uVGltZW91dCI6ZmFsc2UsImFuc3dlcnMiOltdLCJyZXF1aXJlZFRvQW5zd2VyIjp0cnVlLCJzaG93VG9vbHRpcEJlZm9yZUFuc3dlciI6ZmFsc2UsInRpbWVGb3JUb29sdGlwIjowfQ==">
-    <div class="quiz-header">
-        <div class="test__title">Онлайн тест Мадди (45 вопросов)</div>
-        <div class="test__numeratioin">Вопрос: <span>1</span> из <span>45</span></div>
-                    <div class="test__timer">Прошло времени: <span class="js-timer"></span></div>
-                <div class="test__navigation">
-        <button type="submit" class="prev-button" disabled name="to" value="-1">Вернуться к предыдущему вопросу</button>
-        <button type="submit" class="next-button"  name="to" value="1">Перейти к следующему вопросу</button>
-    </div>
-    </div>
-    <!---->
-          <div class="ads-new" style="height: 255px;">
-             <div id="adfox_162037384329944318"></div>
-             <script>
-                 asyncAdfox(() => {
-                     window.yaContextCb.push(() => {
-                         Ya.adfoxCode.create({
-                             ownerId: 260971,
-                             containerId: 'adfox_162037384329944318',
-                             params: {
-                                 p1: 'cpafw',
-                                 p2: 'gxmn'
-                             }
-                         })
-                     });
-                     setInterval(function () {
-                         window.Ya.adfoxCode.reload('adfox_162037384329944318')
-                     }, 30000);
-                 });
-             </script>
-       </div>
+<link rel="stylesheet"  href="css/style.css"/>
+ 	<meta http-equiv="Content-type" content="text/html;charset=UFT-8" />
+ </head>
+ 	<body>
+ <div class="content">
+   <div class="content-top">
+   	<div class="content-top-category">Тест на жизнестойкость по методу Мадди</div>
+   	<div class="content-top-text">
+     <img src="img/Безымянный1.png">
 
-    <div class="quiz-body">
-        <div class="question-content">
-            <p>Я часто не уверен в собственных решениях. </p>
-        </div>
-                <div class="answers-wrapper">
-            <div class="answers__title">Ваш ответ:</div>
-                            <div class="avswers__case otvett">
-                                    <label class="radio">
-                        <input type="radio" value="3" name="a" data-index=0>
-                        <div class="radio__text">нет</div>
-                    </label>
-                                        <label class="radio">
-                        <input type="radio" value="2" name="a" data-index=1>
-                        <div class="radio__text">скорее нет, чем да</div>
-                    </label>
-                                        <label class="radio">
-                        <input type="radio" value="1" name="a" data-index=2>
-                        <div class="radio__text">скорее да, чем нет</div>
-                    </label>
-                                        <label class="radio">
-                        <input type="radio" value="0" name="a" data-index=3>
-                        <div class="radio__text">да</div>
-                    </label>
-                                    </div>
-                                <button type="submit" class="submit-button" name="to" value="1">Далее</button>
-            <input type="hidden" name="q" value="0">
-        </div>		
-         <div class="container vopros">
-        <div class="content">
-            <div >
-<form id="quiz" data-test-id="62169" data-question="1" method="POST">
-    <input type="hidden" name="state" value="eyJpbnZhaXRQYWdlIjoiaHR0cHM6XC9cL2dhZGFsa2luZG9tLnJ1XC90ZXN0XC9naXpuZXN0b2prb3N0aS1tYWRkaS5odG1sIiwicXVldWUiOlswLDEsMiwzLDQsNSw2LDcsOCw5LDEwLDExLDEyLDEzLDE0LDE1LDE2LDE3LDE4LDE5LDIwLDIxLDIyLDIzLDI0LDI1LDI2LDI3LDI4LDI5LDMwLDMxLDMyLDMzLDM0LDM1LDM2LDM3LDM4LDM5LDQwLDQxLDQyLDQzLDQ0XSwidXNlciI6Ilx1MDQ0MVx1MDQzZVx1MDQzZFx1MDQ0ZiIsInN0YXJ0VGltZSI6MTY0MDg4MjA0MDAwMCwidGltZUxpbWl0IjpudWxsLCJjbG9zZU9uVGltZW91dCI6ZmFsc2UsImFuc3dlcnMiOlt7InZhbHVlIjoiMSIsImluZGV4IjoiMiJ9XSwicmVxdWlyZWRUb0Fuc3dlciI6dHJ1ZSwic2hvd1Rvb2x0aXBCZWZvcmVBbnN3ZXIiOmZhbHNlLCJ0aW1lRm9yVG9vbHRpcCI6MCwiY3VycmVudCI6IjAiLCJ0aW1lSXNPdXQiOmZhbHNlfQ==">
-    <div class="quiz-header">
-        
-        <div class="test__numeratioin">Вопрос: <span>2</span> из <span>45</span></div>
-                    <div class="test__timer">Прошло времени: <span class="js-timer"></span></div>
-                <div class="test__navigation">
-        <button type="submit" class="prev-button"  name="to" value="0">Вернуться к предыдущему вопросу</button>
-        <button type="submit" class="next-button"  name="to" value="2">Перейти к следующему вопросу</button>
-    </div>
-    </div>
-    <!---->
-          <div class="ads-new" style="height: 255px;">
-             <div id="adfox_162037384329944318"></div>
-             <script>
-                 asyncAdfox(() => {
-                     window.yaContextCb.push(() => {
-                         Ya.adfoxCode.create({
-                             ownerId: 260971,
-                             containerId: 'adfox_162037384329944318',
-                             params: {
-                                 p1: 'cpafw',
-                                 p2: 'gxmn'
-                             }
-                         })
-                     });
-                     setInterval(function () {
-                         window.Ya.adfoxCode.reload('adfox_162037384329944318')
-                     }, 30000);
-                 });
-             </script>
-       </div>
+   </div>
+   </div>
+<div class="content-info-list">
 
-    <div class="quiz-body">
-        <div class="question-content">
-            <p>Иногда мне кажется, что никому нет до меня дела. </p>
-        </div>
-                <div class="answers-wrapper">
-            <div class="answers__title">Ваш ответ:</div>
-                            <div class="avswers__case otvett">
-                                    <label class="radio">
-                        <input type="radio" value="3" name="a" data-index=0>
-                        <div class="radio__text">нет</div>
-                    </label>
-                                        <label class="radio">
-                        <input type="radio" value="2" name="a" data-index=1>
-                        <div class="radio__text">скорее нет, чем да</div>
-                    </label>
-                                        <label class="radio">
-                        <input type="radio" value="1" name="a" data-index=2>
-                        <div class="radio__text">скорее да, чем нет</div>
-                    </label>
-                                        <label class="radio">
-                        <input type="radio" value="0" name="a" data-index=3>
-                        <div class="radio__text">да</div>
-                    </label>
-                                    </div>
-                                <button type="submit" class="submit-button" name="to" value="2">Далее</button>
-            <input type="hidden" name="q" value="1">
-        </div>
-    </div>
-    <div class="quiz-footer">
-        <div class="message-block"></div>
-        <div class="info-block"></div>
-    </div>
-</form>
 </div>
-        </div>							
- </body>
+<div class="test__title">Начало тестирования</div>
+        
+                    
+  
+        <div class="quiz-body">
+            <p>Я часто не уверен в собственных решениях. </p>
+
+
+                                        <label class="radio3">
+                        <input type="radio" value="1" name="a" data-index=2>
+    </svg>
+                                                 <svg class="gingerbread" width="100" height="100" viewBox="-100 -100 100 100">
+  <circle class="body1" cx="-50" cy="-50" r="30" />
+
+  <circle class="eye" cx="-60" cy="-55" r="3" />
+  <circle class="eye" cx="-40" cy="-55" r="3" />
+  <path class="mouth" 
+  d="
+   M -60 -30
+   C -60 -49 -38 -44 -39 -30
+   
+    "
+    />
+    </svg>
+                      
+                    </label>
+        
+  
+                        
+                  
+                                        <label class="radio2">
+                        <input type="radio" value="2" name="a" data-index=1>
+                           <svg class="gingerbread" width="100" height="100" viewBox="-100 -100 100 100">
+  <circle class="body2" cx="-50" cy="-50" r="30" />
+
+  <circle class="eye" cx="-60" cy="-55" r="3" />
+  <circle class="eye" cx="-40" cy="-55" r="3" />
+ <rect class="mouth" x="-60" y="-40" width="20" height="5" rx="2" />
+ 
+                           </svg>
+                        
+                    </label>
+
+                    <label class="radio1">
+                      <input type="radio" value="3" name="a" data-index=0>
+     <svg class="gingerbread" width="100" height="100" viewBox="-100 -100 100 100">
+  <circle class="body3" cx="-50" cy="-50" r="30" />
+
+  <circle class="eye" cx="-60" cy="-55" r="3" />
+  <circle class="eye" cx="-40" cy="-55" r="3" />
+  <circle class="mouth" cx="-50" cy="-38"  r="6" />
+   
+    </svg>
+                     </label>
+    
+                                        <label class="radio4">
+                        <input type="radio" value="0" name="a" data-index=3>
+                                                 <svg class="gingerbread" width="100" height="100" viewBox="-100 -100 100 100">
+  <circle class="body4" cx="-50" cy="-50" r="30" />
+
+  <circle class="eye" cx="-60" cy="-55" r="3" />
+  <circle class="eye" cx="-40" cy="-55" r="3" />
+  <path class="mouth" 
+  d="
+   M -29 -42
+   L -70 -42
+   C -60 -20 -30 -30 -30 -41
+   
+    "
+    />
+    </svg>
+                    </label>
+        </div>
+                                
+    <div class="quiz-body">
+            <p>Я часто не уверен в собственных решениях. </p>
+
+
+                                        <label class="radio3">
+                        <input type="radio" value="1" name="a" data-index=2>
+                                                 <svg class="gingerbread" width="100" height="100" viewBox="-100 -100 100 100">
+  <circle class="body1" cx="-50" cy="-50" r="30" />
+
+  <circle class="eye" cx="-60" cy="-55" r="3" />
+  <circle class="eye" cx="-40" cy="-55" r="3" />
+  <path class="mouth" 
+  d="
+   M -60 -30
+   C -60 -49 -38 -44 -39 -30
+   
+    "
+    />
+    </svg>
+                      
+                    </label>
+       
+       <label class="radio2">
+                        <input type="radio" value="2" name="a" data-index=1>
+                           <svg class="gingerbread" width="100" height="100" viewBox="-100 -100 100 100">
+  <circle class="body2" cx="-50" cy="-50" r="30" />
+
+  <circle class="eye" cx="-60" cy="-55" r="3" />
+  <circle class="eye" cx="-40" cy="-55" r="3" />
+ <rect class="mouth" x="-60" y="-40" width="20" height="5" rx="2" />
+ 
+                           </svg>
+                        
+                    </label>
+
+                    <label class="radio1">
+                      <input type="radio" value="3" name="a" data-index=0>
+     <svg class="gingerbread" width="100" height="100" viewBox="-100 -100 100 100">
+  <circle class="body3" cx="-50" cy="-50" r="30" />
+
+  <circle class="eye" cx="-60" cy="-55" r="3" />
+  <circle class="eye" cx="-40" cy="-55" r="3" />
+  <circle class="mouth" cx="-50" cy="-38"  r="6" />
+   
+    </svg>
+                     </label>
+    
+                                        <label class="radio4">
+                        <input type="radio" value="0" name="a" data-index=3>
+                                                 <svg class="gingerbread" width="100" height="100" viewBox="-100 -100 100 100">
+  <circle class="body4" cx="-50" cy="-50" r="30" />
+
+  <circle class="eye" cx="-60" cy="-55" r="3" />
+  <circle class="eye" cx="-40" cy="-55" r="3" />
+  <path class="mouth" 
+  d="
+   M -29 -42
+   L -70 -42
+   C -60 -20 -30 -30 -30 -41
+   
+    "
+    />
+    </svg>
+                    </label>
+        </div>
+                                
+ 	 <div class="quiz-body">
+            <p>Я часто не уверен в собственных решениях. </p>
+
+
+                                        <label class="radio3">
+                        <input type="radio" value="1" name="a" data-index=2>
+                                                 <svg class="gingerbread" width="100" height="100" viewBox="-100 -100 100 100">
+  <circle class="body1" cx="-50" cy="-50" r="30" />
+
+  <circle class="eye" cx="-60" cy="-55" r="3" />
+  <circle class="eye" cx="-40" cy="-55" r="3" />
+  <path class="mouth" 
+  d="
+   M -60 -30
+   C -60 -49 -38 -44 -39 -30
+   
+    "
+    />
+    </svg>
+                      
+                    </label>
+        
+  
+                        
+                  
+                                        <label class="radio2">
+                        <input type="radio" value="2" name="a" data-index=1>
+                           <svg class="gingerbread" width="100" height="100" viewBox="-100 -100 100 100">
+  <circle class="body2" cx="-50" cy="-50" r="30" />
+
+  <circle class="eye" cx="-60" cy="-55" r="3" />
+  <circle class="eye" cx="-40" cy="-55" r="3" />
+ <rect class="mouth" x="-60" y="-40" width="20" height="5" rx="2" />
+ 
+                           </svg>
+                        
+                    </label>
+
+                    <label class="radio1">
+                      <input type="radio" value="3" name="a" data-index=0>
+     <svg class="gingerbread" width="100" height="100" viewBox="-100 -100 100 100">
+  <circle class="body3" cx="-50" cy="-50" r="30" />
+
+  <circle class="eye" cx="-60" cy="-55" r="3" />
+  <circle class="eye" cx="-40" cy="-55" r="3" />
+  <circle class="mouth" cx="-50" cy="-38"  r="6" />
+   
+    </svg>
+                     </label>
+    
+                                        <label class="radio4">
+                        <input type="radio" value="0" name="a" data-index=3>
+                                                 <svg class="gingerbread" width="100" height="100" viewBox="-100 -100 100 100">
+  <circle class="body4" cx="-50" cy="-50" r="30" />
+
+  <circle class="eye" cx="-60" cy="-55" r="3" />
+  <circle class="eye" cx="-40" cy="-55" r="3" />
+  <path class="mouth" 
+  d="
+   M -29 -42
+   L -70 -42
+   C -60 -20 -30 -30 -30 -41
+   
+    "
+    />
+    </svg>
+                    </label>
+        </div>
+
+    
+                                
+    </div>  
+  </body>
 </html>
