@@ -1,169 +1,137 @@
-*{
-	padding: 0;
-	margin: 0;
-	border: 0;
-}
-*,*:before,*:after{
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-}
-:focus,:active{outline: none;}
-a:focus,a:active{outline: none;}
+@import url("https://fonts.googleapis.com/css?family=Roboto");
 
-nav,footer,header,aside{display: block;}
+html {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
-html,body{
-	height: 100%;
-	width: 100%;
-	font-size: 100%;
-	line-height: 1;
-	font-size: 14px;
-	-ms-text-size-adjust: 100%;
-	-moz-text-size-adjust: 100%;
-	-webkit-text-size-adjust: 100%;
-}
-input,button,textarea{font-family:inherit;}
-
-input::-ms-clear{display: none;}
-button{cursor: pointer;}
-button::-moz-focus-inner {padding:0;border:0;}
-a, a:visited{text-decoration: none;}
-a:hover{text-decoration: none;}
-ul li{list-style: none;}
-img{vertical-align: top;}
-
-h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
- 
-body{
-
-background-color: #F8F8FF;
-
+  width: 100%;
+  height: 100%;
 }
 
-input{
-	opacity: 0;
-	position: absolute;
-   margin: 40px 5px 0px 50px;
-}
-p{
-	margin: 20px 0 0 20px;
-}
-svg{
-	margin: 5px 10px 0 40px;
+svg {
+  display: none;
 }
 
-
-.content{
-  max-width: 750px;
-  padding: 168px 0 137px 0;
-	
-	margin: 0px auto;
-}
-.content-top-category{
-	color: #333333;
-   font-weight: 700;
-   font-size: 40px;
-	max-width: 725px;
-	margin: 10px;
+body {
+  background-color: #7b0828;
+  margin: 0;
 }
 
-.content-top-text{
-color: #273d46;
-	font-size: 34px;
-	line-height: 40px;
-	max-width: 725px;
-	margin: 10px;
-   font-family: Micra, Helvetica, Arial, sans-serif;
-}
-.test__title{
-  font-size: 40px;
-line-height: 40px;
-color: #4f5e6a;
-text-align: center;
-margin: 70px 0 0 0;
+.hour_marker {
+  fill: transparent;
+  stroke: #f0f0c9;
+  stroke-width: 7;
+  stroke-dasharray: 0.2, 4.8;
+  stroke-dashoffset: 0.1;
 }
 
- .quiz-body {
-	color: #333333;
-   font-weight: 700;
-   font-size: 27px;
-	max-width: 700px;
-	margin: 10px;
-	font-family: 'Roboto', sans-serif;
-	border: 1px solid #FFF0F5;
-	background-color: #FFF0F5;
-	border-radius: 30px;
-	box-shadow: 3px 2px 1px rgba(0, 0, 0,0.5);
-
-}
-.answers-wrapper{
-	color: #333333;
-   font-weight: 700;
-   font-size: 20px;
-	max-width: 725px;
-	margin: 10px;
-	font-family: 'Roboto', sans-serif;
+.minute_marker {
+  fill: transparent;
+  stroke: #0f0e0e;
+  stroke-width: 7;
+  stroke-dasharray: 0.2, 0.8;
+  stroke-dashoffset: 0.1;
 }
 
-.gingerbread .body1 {
-  fill: #fff; 
-
-}
-.gingerbread .body2 {
-  fill: #fff; 
-
-}
-.gingerbread .body3 {
-  fill: #fff; 
-
-}
-.gingerbread .body4 {
-  fill: #fff; 
-
+.hand {
+  stroke: #ffffff;
+  stroke-width: 2;
+  stroke-linecap: round;
 }
 
-.gingerbread .eye {
-  fill: black;
+.hand--thick {
+  stroke-width: 7;
 }
 
-.gingerbread .mouth {
-  fill: none;
-  stroke: black;
-  stroke-width: 2px;
-
+.hand--second {
+  stroke: yellow;
 }
 
-.gingerbread .body1:active {
-  fill:#B22222; 
-
-}
-.gingerbread .body2:hover {
-  fill: #FF6347; 
-
-}
-.gingerbread .body3:hover {
-  fill: #FF8C00; 
-
-}
-.gingerbread .body4:hover {
-  fill: #3CB371;
+.center {
+  fill: #7b0828;
+  stroke-width: 2;
+  stroke: white;
 }
 
-ul{
-	color: #333333;
-   max-width: 700px;
-	background-color: #FFF0F5;
-	border-radius: 30px;
-	box-shadow: 3px 2px 1px rgba(0, 0, 0,0.5);
-
+.text {
+  fill: #f0f0c9;
+  font-family: "Roboto", sans-serif;
+  text-anchor: middle;
+  cursor: pointer;
+  user-select: none;
 }
-span{
-display: block;
-font-size: 23px;	
-font-weight: 700;
-font-family: 'Roboto', sans-serif;
-text-align: left;
-border: 1px solid #000;
 
+#youtube,
+#youtube-card {
+  display: none;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+}
+
+@media (min-height: 425px) {
+  /** Youtube logo by https://codepen.io/alvaromontoro */
+  #youtube {
+    z-index: 50;
+    width: 100px;
+    display: block;
+    height: 70px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: red;
+    border-radius: 50% / 11%;
+    transform: scale(0.8);
+    transition: transform 0.5s;
+  }
+
+  #youtube:hover,
+  #youtube:focus {
+    transform: scale(0.9);
+    color: black;
+  }
+
+  #youtube::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 7.5%;
+    left: -6%;
+    width: 112%;
+    height: 85%;
+    background: red;
+    border-radius: 9% / 50%;
+  }
+
+  #youtube::after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    width: 45px;
+    height: 30px;
+    border: 15px solid transparent;
+    box-sizing: border-box;
+    border-left: 30px solid white;
+  }
+
+  #youtube span {
+    font-size: 0;
+    position: absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+  }
+
+  #youtube:hover + #youtube-card {
+    z-index: 49;
+    display: block;
+    position: fixed;
+    bottom: 12px;
+    right: 10px;
+    padding: 25px 130px 25px 25px;
+    width: 300px;
+    background-color: white;
+  }
 }
