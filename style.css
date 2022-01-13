@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto")
+@import url("https://fonts.googleapis.com/css?family=Roboto") 
 
 html {
   display: flex;
@@ -13,7 +13,7 @@ svg {
 }
 
 body {
-  background-color:#FA8072;
+  background-color:#728bfa;
   margin: 0;
 }
 
